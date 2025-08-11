@@ -25,6 +25,8 @@ follows the ideals of being tiny and simple), and [The Garbage Collection
 Handbook][garbage_collection_handbook].
 
 
+
+
 ## Table of contents
 
 * [Table of contents](#table-of-contents)
